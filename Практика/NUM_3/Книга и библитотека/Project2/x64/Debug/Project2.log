@@ -1,0 +1,7 @@
+﻿  library.cpp
+  main.cpp
+  Компиляция...
+  Создание кода...
+  Project2.vcxproj -> C:\Users\Sergey\Documents\GitHub\Practice\Практика\NUM_3\Книга и библитотека\x64\Debug\Project2.exe
+c:\users\sergey\documents\github\practice\практика\num_3\книга и библитотека\project2\library.cpp(13): warning C26495: Variable 'Book::year' is uninitialized. Always initialize a member variable (type.6).
+c:\users\sergey\documents\github\practice\практика\num_3\книга и библитотека\project2\library.cpp(14): warning C26495: Variable 'Book::publisher' is uninitialized. Always initialize a member variable (type.6).
